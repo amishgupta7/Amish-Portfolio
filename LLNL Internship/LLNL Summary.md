@@ -17,4 +17,4 @@ Over the course of the week, I conducted several experiments using phone-based s
 Working at LLNL taught me that real-world data is rarely clean. I learned that the true job of a scientist or engineer is to apply rigorous analysis and visualization to "imperfect" data to uncover meaningful insights.
 
 ---
-*Note: Data graphs are included in this folder.*
+*Note: Data graphs and specific experiment logs are included in this folder.*
