@@ -11,9 +11,9 @@
 ---
 
 ## Portfolio Directory
-* Lawrence Livermore Natonal Laboratory (LLNL) internship summary with data graphs.
-* [Aspiring Scholars Directed Research Program (ASDRP)](ASDRP Research): ML in Drug Discovery
-* Data Digger: Link to final pitch deck and winning screenshot, Executive summary?
+* Lawrence Livermore Natonal Laboratory (LLNL) internship: [Link to Repositories to view summary with data graphs] 
+* ASDRP Research: ML in Drug Discovery: [Link to Repository to view abstract](https://github.com/amishgupta7/Amish-Portfolio/tree/main/ASDRP%20Research)
+* Data Digger: [Link to Repositories to view final pitch deck]
 * Certificates and Awards: [Link to Repositories](https://github.com/amishgupta7/Amish-Portfolio/tree/main/Certificates)
 
 ## Featured Source Code
