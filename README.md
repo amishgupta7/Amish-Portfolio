@@ -11,7 +11,7 @@
 ---
 
 ## Portfolio Directory
-* Lawrence Livermore Natonal Laboratory (LLNL) internship: [Link to Repositories to view summary with data graphs] 
+* Lawrence Livermore Natonal Laboratory (LLNL) internship: [Link to Repositories to view summary with data graphs](https://github.com/amishgupta7/Amish-Portfolio/tree/27d39f4dab922188df135d05785159f29095874b/LLNL%20Internship) 
 * ASDRP Research: ML in Drug Discovery: [Link to Repository to view abstract](https://github.com/amishgupta7/Amish-Portfolio/tree/main/ASDRP%20Research)
 * Data Digger: [Link to Repositories to view final pitch deck]
 * Certificates and Awards: [Link to Repositories](https://github.com/amishgupta7/Amish-Portfolio/tree/main/Certificates)
