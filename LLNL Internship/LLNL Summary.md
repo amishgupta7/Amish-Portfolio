@@ -14,7 +14,7 @@ Over the course of the week, I conducted several experiments using phone-based s
 * **The National Ignition Facility (NIF):** A highlight of the week was touring the NIF, the world’s largest and highest-energy laser, which put the power of high-level physics into perspective.
 
 ## Learnings
-Working at LLNL taught me that real-world data is rarely clean. I learned that the true job of a scientist or engineer is to apply rigorous analysis and visualization to "imperfect" data to uncover meaningful insights
+Working at LLNL taught me that real-world data is rarely clean. I learned that the true job of a scientist or engineer is to apply rigorous analysis and visualization to "imperfect" data to uncover meaningful insights.
 
 ---
 *Note: Data graphs are included in this folder.*
