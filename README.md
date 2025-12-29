@@ -11,7 +11,7 @@
 ---
 
 ## Portfolio Directory
-* LLNL internship summary with data graphs.
+* Lawrence Livermore Natonal Laboratory (LLNL) internship summary with data graphs.
 * Aspiring Scholars Directed Research Program (ASDRP) abstract for Drug Discovery paper and a chart showing Tanimoto similarity results.
 * Data Digger: Link to final pitch deck and winning screenshot, Executive summary?
 * Certificates and Awards: [Link to Repositories](https://github.com/amishgupta7/Amish-Portfolio/tree/main/Certificates)
