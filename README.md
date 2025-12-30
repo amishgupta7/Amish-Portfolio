@@ -17,6 +17,6 @@
 * **Certificates and Awards:** [View Folder](https://github.com/amishgupta7/Amish-Portfolio/tree/main/Certificates) for all official certificates and award documents.
 
 ## Source Code 
-* **MindUnplugged app (2025):** [Link to Repository](URL_HERE) 
+* **MindUnplugged app (2025):** [Link to Repository](https://github.com/amishgupta7/MindUnplugged-DigitalDetox_Main) 
 * **I Am Ready: Natural Disasters app (2023):** [Link to Repository](https://github.com/amishgupta7/IMRNaturalDisasters)
   
