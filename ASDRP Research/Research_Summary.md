@@ -25,3 +25,4 @@ Our hybrid approach, which combined the strengths of both SMILES and DeepSMILES,
 * Contributed to the editing and formatting of the technical manuscript.
 
 ---
+*Note: Visualizations of the pipeline and results are included for verification.*
