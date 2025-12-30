@@ -11,12 +11,12 @@
 ---
 
 ## Portfolio Directory
-* **Lawrence Livermore Natonal Laboratory (LLNL) internship:** [View Folder](https://github.com/amishgupta7/Amish-Portfolio/tree/27d39f4dab922188df135d05785159f29095874b/LLNL%20Internship) for internship summary and data graphs. 
-* **ASDRP Research: ML in Drug Discovery:** [View Folder](https://github.com/amishgupta7/Amish-Portfolio/tree/main/ASDRP%20Research) for ML in Drug Discovery abstract and Tanimoto results.
-* **Data Digger:** [View Folder](https://github.com/amishgupta7/Amish-Portfolio/tree/27d39f4dab922188df135d05785159f29095874b/Data%20Digger%20Project) for final pitch deck. 
-* **Certificates and Awards:** [View Folder](https://github.com/amishgupta7/Amish-Portfolio/tree/main/Certificates) for all official certificates and award documents.
+* **Lawrence Livermore Natonal Laboratory (LLNL) internship:** [View Folder](./https://github.com/amishgupta7/Amish-Portfolio/tree/27d39f4dab922188df135d05785159f29095874b/LLNL%20Internship/) for internship summary and data graphs. 
+* **ASDRP Research: ML in Drug Discovery:** [View Folder](./https://github.com/amishgupta7/Amish-Portfolio/tree/main/ASDRP%20Research/) for ML in Drug Discovery abstract and Tanimoto results.
+* **Data Digger:** [View Folder](./https://github.com/amishgupta7/Amish-Portfolio/tree/27d39f4dab922188df135d05785159f29095874b/Data%20Digger%20Project/) for final pitch deck. 
+* **Certificates and Awards:** [View Folder](./https://github.com/amishgupta7/Amish-Portfolio/tree/main/Certificates/) for all official certificates and award documents.
 
 ## Source Code 
-* **MindUnplugged app (2025):** [Link to Repository](https://github.com/amishgupta7/MindUnplugged-DigitalDetox_Main) 
-* **I Am Ready: Natural Disasters app (2023):** [Link to Repository](https://github.com/amishgupta7/IMRNaturalDisasters)
+* **MindUnplugged app (2025):** [View Repository](./https://github.com/amishgupta7/MindUnplugged-DigitalDetox_Main/) 
+* **I Am Ready: Natural Disasters app (2023):** [View Repository](./https://github.com/amishgupta7/IMRNaturalDisasters/)
   
