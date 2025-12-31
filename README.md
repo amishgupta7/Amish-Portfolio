@@ -7,7 +7,7 @@
 * **Youth Entrepreneurship Summit Global Startup Contest 2025 (1st Place):** Data Digger ($1,000 Prize)
 * **ASDRP Research (2025):** ML in Drug Discovery (Paper Under Review)
 * **CyberPatriot (2024):** Platinum Tier Award
-* **Daydream Folsom Hackathon (2025):** Lead Organizer for a global, teen-led game jam across 130+ cities worldwide.[View Repository] 
+* **Daydream Folsom Hackathon (2025):** Lead Organizer for a global, teen-led game jam across 130+ cities worldwide.[View Folder] 
 
 ---
 
@@ -17,6 +17,8 @@
 * **ASDRP Research: ML in Drug Discovery:** [View Folder](./ASDRP%20Research/) for ML in Drug Discovery abstract and Tanimoto results.
 * **Data Digger:** [View Folder](./Data%20Digger%20Project/) for final pitch deck.
 * **Certificates and Awards:** [View Folder](./Certificates/) for all official certificates and award documents.
+* **Community Impact (WeEmbrace):** [View Folder](./Community%20Impact%20-%20WeEmbrace%20for%20Neurodiverse/) for web administration artifacts and Volunteer of the Month recognition.
+* **Daydream Folsom Hackathon:** [View Folder](./DayDream%20Folsom%20Hackahon%20/)
 
 ## Source Code
 
@@ -31,3 +33,5 @@
 * **Tools and Platforms:** Firebase SDK, GitHub, Replit, Google Colab, Visual Studio Code, Xcode, Thunkable
 * **Database:** Google Firebase
 * **Business Intelligence (BI):** Tableau
+
+
