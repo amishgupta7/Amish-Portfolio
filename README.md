@@ -21,3 +21,11 @@
 
 * **MindUnplugged app (2025):** [View Repository](https://github.com/amishgupta7/MindUnplugged-DigitalDetox_Main)
 * **I Am Ready: Natural Disasters app (2023):** [View Repository](https://github.com/amishgupta7/IMRNaturalDisasters)
+
+## Technical Skills
+* **Languages:** Python (Pandas, NumPy, Scikit-learn), JavaScript, Swift, HTML/CSS, C++
+* **AI/ML:** Transformers (ChemBERTa, DeepBERTa), RDKit, Hyperparameter Optimization (Optuna)
+* **Libraries and Framework:** Pandas, NumPy, Matplotlib, Jupyter Notebook
+* **Tools and Platforms:** Firebase SDK, GitHub, Replit, Google Colab, Visual Studio Code, Xcode, Thunkable
+* **Database:** Google Firebase
+* **Business Intelligence (BI):** Tableau
