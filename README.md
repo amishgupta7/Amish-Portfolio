@@ -2,8 +2,8 @@
 11th Grade Junior at Vista del Lago HS
 
 ## Key Highlights
-* **Congressional App Challenge 2025 (3rd Place):** [MindUnplugged Demo Link](https://www.youtube.com/watch?v=Iv9O0UiuJmU)
-* **Congressional App Challenge 2023 (2nd Place):** [I am Ready: Natural Disasters Demo Link](https://www.youtube.com/watch?v=utFH0finoaI) 
+* **Congressional App Challenge 2025 (3rd Place):** [MindUnplugged Demo Link](https://www.youtube.com/watch?v=Iv9O0UiuJmU) | [View Repository](https://github.com/amishgupta7/MindUnplugged-DigitalDetox_Main)
+* **Congressional App Challenge 2023 (2nd Place):** [I am Ready: Natural Disasters Demo Link](https://www.youtube.com/watch?v=utFH0finoaI) | [View Repository](https://github.com/amishgupta7/IMRNaturalDisasters) 
 * **Youth Entrepreneurship Summit Global Startup Contest 2025 (1st Place):** Data Digger ($1,000 Prize)
 * **ASDRP Research (2025):** ML in Drug Discovery (Paper Under Review)
 * **CyberPatriot (2024):** Platinum Tier Award
