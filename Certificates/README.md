@@ -12,7 +12,7 @@ This directory contains official documentation and recognition of my technical a
 * **theCoderSchool Code Coach:** Recognition as a Code Coach. [View Profile](./Experience_theCoderSchool_CodeCoach.png) | [Social Media Feature](./Social_theCoderSchool_Feature.jpg/)
 * **Data Analysis with Python (FreeCodeCamp):** Verified certification covering NumPy, Pandas, and Matplotlib. [View Certificate](./Cert_Python_DataAnalysis_FreeCodeCamp_2024.jpeg/)
 * **Excellence in Mathematics:** Level 2 Award for outstanding performance in advanced mathematical coursework. [View Certificate](./Award_MathExcellence_Level2.pdf/)
-* ** WeEmbrace
+* **WeEmbrace Volunteer of the Month:** [View Recognition](./Award_WeEmbrace_VolunteerOfMonth.png/)
 
 ---
 *Verification of any award or certificate is available upon request.*
