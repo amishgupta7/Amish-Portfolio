@@ -1,8 +1,6 @@
 # Amish Gupta | Technical Portfolio
 11th Grade Junior at Vista del Lago HS
 
-This portfolio highlights my work in computer science and data science, with a focus on real-world applications, research, and community impact.
-
 ## Key Highlights
 * **ASDRP Research (2025):** ML in Drug Discovery (Paper Under Review) [View Folder](./ASDRP%20Research/) for ML in Drug Discovery abstract and Tanimoto results.
 * **Lawrence Livermore National Laboratory (LLNL) internship:** [View Folder](./LLNL%20Internship/) for internship summary and data graphs.
