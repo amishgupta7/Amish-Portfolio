@@ -21,6 +21,7 @@
 
 * **MindUnplugged app (2025):** [View Repository](https://github.com/amishgupta7/MindUnplugged-DigitalDetox_Main)
 * **I Am Ready: Natural Disasters app (2023):** [View Repository](https://github.com/amishgupta7/IMRNaturalDisasters)
+* [View other code projects](https://github.com/amishgupta7)
 
 ## Technical Skills
 * **Languages:** Python (Pandas, NumPy, Scikit-learn), JavaScript, Swift, HTML/CSS, C++
