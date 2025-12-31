@@ -18,7 +18,7 @@
 * **Data Digger:** [View Folder](./Data%20Digger%20Project/) for final pitch deck.
 * **Certificates and Awards:** [View Folder](./Certificates/) for all official certificates and award documents.
 * **Community Impact (WeEmbrace):** [View Folder](./Community%20Impact%20-%20WeEmbrace%20for%20Neurodiverse/) for web administration artifacts and Volunteer of the Month recognition.
-* **Daydream Folsom Hackathon:** [View Folder](./DayDream%20Folsom%20Hackahon%20/)
+* **Daydream Folsom Hackathon:** [View Folder](https://github.com/amishgupta7/Amish-Portfolio/tree/main/Daydream%20Folsom%20Hackathon)
 
 ## Source Code
 
