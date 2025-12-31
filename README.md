@@ -7,6 +7,7 @@
 * **Youth Entrepreneurship Summit Global Startup Contest 2025 (1st Place):** Data Digger ($1,000 Prize)
 * **ASDRP Research (2025):** ML in Drug Discovery (Paper Under Review)
 * **CyberPatriot (2024):** Platinum Tier Award
+* **Daydream Folsom Hackathon (2025):** Lead Organizer for a global, teen-led game jam across 130+ cities worldwide. 
 
 ---
 
