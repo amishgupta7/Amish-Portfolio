@@ -14,12 +14,12 @@
 
 ## Portfolio Directory
 
-* **Lawrence Livermore National Laboratory (LLNL) internship:** [View Folder](./LLNL%20Internship/) for internship summary and data graphs.
 * **ASDRP Research: ML in Drug Discovery:** [View Folder](./ASDRP%20Research/) for ML in Drug Discovery abstract and Tanimoto results.
+* **Lawrence Livermore National Laboratory (LLNL) internship:** [View Folder](./LLNL%20Internship/) for internship summary and data graphs.
 * **Data Digger:** [View Folder](./Data%20Digger%20Project/) for final pitch deck.
-* **Certificates and Awards:** [View Folder](./Certificates/) for all official certificates and award documents.
-* **Community Impact (WeEmbrace):** [View Folder](./Community%20Impact%20-%20WeEmbrace%20for%20Neurodiverse/) for web administration artifacts and Volunteer of the Month recognition.
 * **Daydream Folsom Hackathon:** [View Folder](https://github.com/amishgupta7/Amish-Portfolio/tree/main/Daydream%20Folsom%20Hackathon)
+* **Community Impact (WeEmbrace):** [View Folder](./Community%20Impact%20-%20WeEmbrace%20for%20Neurodiverse/) for web administration artifacts and Volunteer of the Month recognition.
+* **Certificates and Awards:** [View Folder](./Certificates/) for all official certificates and award documents.
 
 ## Source Code
 
