@@ -7,7 +7,7 @@ This directory contains official documentation of my academic standing, technica
 * **Congressional App Challenge (2025):** 3rd Place award for **MindUnplugged**. [View Certificate](./Award_CongressionalApp_3rdPlace_2025.pdf/)
 * **Congressional App Challenge (2023):** 2nd Place award for **I Am Ready - Natural Disasters**. [View Certificate](./Award_CongressionalApp_2ndPlace_2023.pdf/)
     * *Recognition:* [Social media feature by Congressman Kevin Kiley](./Social_CongressionalApp_KevinKiley_2023.jpg/)
-* **YES Global Startup Contest (2025):** 1st Place ($1,000 Prize) for **Data Digger**, an AI-driven real estate analytics tool. 
+* **YES Global Startup Contest (2025):** 1st Place ($1,000 Prize) for **Data Digger**, an AI-driven real estate analytics tool. [View Certificate](./Award_YES_GlobalStartup_1stPlace_2025.pdf/) 
 * **Presidential Volunteer Service Award (2024):** **Gold Tier** recognition for outstanding commitment to community service. [View Certificate](./Award_Presidential_Service_Gold_2024.pdf/)
 * **CyberPatriot (2024):** **Platinum Tier** Award for excellence in cybersecurity defense. [View Certificate](./Award_CyberPatriot_PlatinumTier_2024.pdf/)
 * **Excellence in Mathematics:** Level 2 Award for outstanding performance in advanced mathematical coursework. [View Certificate](./Award_MathExcellence_Level2.pdf/)
