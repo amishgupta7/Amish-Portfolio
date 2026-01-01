@@ -28,11 +28,10 @@
 * **[View all other code projects](https://github.com/amishgupta7?tab=repositories)**
 
 ## Technical Skills
-* **Languages:** Python (Pandas, NumPy, Scikit-learn), JavaScript, Swift, HTML/CSS, C++
-* **AI/ML:** Transformers (ChemBERTa, DeepBERTa), RDKit, Hyperparameter Optimization (Optuna)
-* **Libraries and Framework:** Pandas, NumPy, Matplotlib, Jupyter Notebook
-* **Tools and Platforms:** Firebase SDK, GitHub, Replit, Google Colab, Visual Studio Code, Xcode, Thunkable
-* **Database:** Google Firebase
-* **Business Intelligence (BI):** Tableau
+* **Languages & Data Science:** Python (Pandas, NumPy, Scikit-learn), JavaScript, Swift, HTML/CSS, C++
+* **AI/ML:** Transformers (ChemBERTa, DeepBERTa), RDKit, Hyperparameter Optimization (Optuna), Jupyter Notebook
+* **Tools and Platforms:** Firebase SDK, GitHub, Replit, Google Colab, Visual Studio Code, Xcode, Thunkable, Tableau
+
+
 
 
