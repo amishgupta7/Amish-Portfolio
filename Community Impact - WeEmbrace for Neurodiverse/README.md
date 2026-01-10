@@ -1,11 +1,11 @@
 # WeEmbrace Project Documentation
 
-* **[Backend CMS Structure](./WeEmbrace_Backend_CMS_Structure.png/)** *Detailed view of the Content Management System hierarchy and data flow.*
+* **[Backend CMS Structure](./WeEmbrace_Backend_CMS_Structure.png/)** *Content Management System View*
 
-* **[Payment Integration Flow](./WeEmbrace_Payment_Integration.png/)** *The logic behind the donation and payment processing gateway.*
+* **[Payment Integration Flow](./WeEmbrace_Payment_Integration.png/)** *Donation and Payment processing screen.*
 
 * **[Main Website Screenshot](./WeEmbrace_Website.png/)** *Preview of the landing page and general UI design.*
 
-* **[Volunteer of the Month Highlight](./WeEmbrace_VolunteerOfMonth_highlight.png/)** *Visual showcase of the community appreciation module.*
+* **[Volunteer of the Month Highlight](./WeEmbrace_VolunteerOfMonth_highlight.png/)** *Volunteer of the month highlight on WeEmbrace Website.*
 
 
