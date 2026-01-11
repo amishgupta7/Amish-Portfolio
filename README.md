@@ -10,8 +10,9 @@
 * **Youth Entrepreneurship Summit Global Startup Contest 2025 (1st Place): Data Digger ($1,000 Prize)** | [View Folder](./Youth%20Enterpreneurship%20Summit%20Data%20Digger/)
 * **CyberPatriot (2024):** Platinum Tier Award [View Certificates folder](./Certificates/)
 * **Daydream Folsom Hackathon (2025):** Lead Organizer for a global, teen-led game jam across 130+ cities worldwide.[View Folder](https://github.com/amishgupta7/Amish-Portfolio/tree/main/Daydream%20Folsom%20Hackathon)
-* **Certificates and Awards:** [View Folder](./Certificates/) for all official certificates and award documents.
 * **Code Coach at The Coder School:** [View recognition and social media feature](./Certificates/)
+* **Certificates and Awards:** [View Folder](./Certificates/) for all official certificates and award documents.
+
 
 ## Source Code
 * **MindUnplugged app (2025):** [View Repository](https://github.com/amishgupta7/MindUnplugged-DigitalDetox_Main) | [Demo Link](https://www.youtube.com/watch?v=Iv9O0UiuJmU)
