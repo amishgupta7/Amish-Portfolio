@@ -6,7 +6,7 @@
 * **Lawrence Livermore National Laboratory (LLNL) internship:** [View Folder](./LLNL%20Internship/) for internship summary and data graphs.
 * **Congressional App Challenge 2025 (3rd Place):** [MindUnplugged Demo Link](https://www.youtube.com/watch?v=Iv9O0UiuJmU) | [View Repository](https://github.com/amishgupta7/MindUnplugged-DigitalDetox_Main)
 * **Congressional App Challenge 2023 (2nd Place):** [I am Ready: Natural Disasters Demo Link](https://www.youtube.com/watch?v=utFH0finoaI) | [View Repository](https://github.com/amishgupta7/IMRNaturalDisasters) 
-* **Youth Entrepreneurship Summit Global Startup Contest 2025 (1st Place):** Data Digger ($1,000 Prize)
+* **Youth Entrepreneurship Summit Global Startup Contest 2025 (1st Place):** Data Digger ($1,000 Prize) | [View Folder](./Youth%20Enterpreneurship%20Summit%20Data%20Digger/)
 * **CyberPatriot (2024):** Platinum Tier Award [View Certificates folder](./Certificates/)
 * **Daydream Folsom Hackathon (2025):** Lead Organizer for a global, teen-led game jam across 130+ cities worldwide.[View Folder](https://github.com/amishgupta7/Amish-Portfolio/tree/main/Daydream%20Folsom%20Hackathon)  
 
