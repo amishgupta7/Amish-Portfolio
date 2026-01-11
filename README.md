@@ -11,14 +11,14 @@
 * **Daydream Folsom Hackathon (2025):** Lead Organizer for a global, teen-led game jam across 130+ cities worldwide.[View Folder](https://github.com/amishgupta7/Amish-Portfolio/tree/main/Daydream%20Folsom%20Hackathon)  
 
 ## Source Code
-* **MindUnplugged app (2025):** [View Repository](https://github.com/amishgupta7/MindUnplugged-DigitalDetox_Main)
-* **I Am Ready: Natural Disasters app (2023):** [View Repository](https://github.com/amishgupta7/IMRNaturalDisasters)
+* **MindUnplugged app (2025):** [View Repository](https://github.com/amishgupta7/MindUnplugged-DigitalDetox_Main) | [Demo Link](https://www.youtube.com/watch?v=Iv9O0UiuJmU)
+* **I Am Ready: Natural Disasters app (2023):** [View Repository](https://github.com/amishgupta7/IMRNaturalDisasters) | [Demo Link](https://www.youtube.com/watch?v=utFH0finoaI)
 * **[View all other code projects](https://github.com/amishgupta7?tab=repositories)**
   
 ## Portfolio Directory
 * **ASDRP Research: ML in Drug Discovery:** [View Folder](./ASDRP%20Research/) for ML in Drug Discovery abstract and Tanimoto results.
 * **Lawrence Livermore National Laboratory (LLNL) internship:** [View Folder](./LLNL%20Internship/) for internship summary and data graphs.
-* **Data Digger:** [View Folder](./Data%20Digger%20Project/) for final pitch deck.
+* **Data Digger:** [View Folder](./Youth%20Enterpreneurship%20Summit%20Data%20Digger/) for final pitch deck.
 * **Daydream Folsom Hackathon:** [View Folder](https://github.com/amishgupta7/Amish-Portfolio/tree/main/Daydream%20Folsom%20Hackathon)
 * **Community Impact (WeEmbrace):** [View Folder](./Community%20Impact%20-%20WeEmbrace%20for%20Neurodiverse/) for web administration artifacts and Volunteer of the Month recognition.
 * **Certificates and Awards:** [View Folder](./Certificates/) for all official certificates and award documents.
