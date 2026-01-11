@@ -1,5 +1,6 @@
 # Amish Gupta | Technical Portfolio
 11th Grade Junior at Vista del Lago HS
+* **Weighted GPA:** 4.26 | **Unweighted GPA:** 3.95 | **College Prep GPA:** 4.44
 
 ## Key Highlights and Portfolio Directory
 * **ASDRP Research (2025):** ML in Drug Discovery (Paper Under Review) [View Folder](./ASDRP%20Research/) for ML in Drug Discovery abstract and Tanimoto results.
@@ -13,7 +14,6 @@
 * **Code Coach at The Coder School:** [View recognition and social media feature](./Certificates/)
 * **Certificates and Awards:** [View Folder](./Certificates/) for all official certificates and award documents.
 
-
 ## Source Code
 * **MindUnplugged app (2025):** [View Repository](https://github.com/amishgupta7/MindUnplugged-DigitalDetox_Main) | [Demo Link](https://www.youtube.com/watch?v=Iv9O0UiuJmU)
 * **I Am Ready: Natural Disasters app (2023):** [View Repository](https://github.com/amishgupta7/IMRNaturalDisasters) | [Demo Link](https://www.youtube.com/watch?v=utFH0finoaI)
@@ -24,6 +24,7 @@
 * **AI/ML:** Transformers (ChemBERTa, DeepBERTa), RDKit, Hyperparameter Optimization (Optuna), Jupyter Notebook
 * **Tools and Platforms:** Firebase SDK, GitHub, Replit, Google Colab, Visual Studio Code, Xcode, Thunkable, Tableau
 
-
-
-
+## Completed High-school and College Coursework 
+Completed all courses with **Grade A**
+* **Dual-Enrollment College Courses:** Algorithm Design & Implementation, Intro to AI & Data Science, Intro to Probability and Statistics, Intro to Structured Programming, Intro to Computer Information Science.
+* **High School Courses:** AP Computer Science A, AP Computer Science Principles, AP Calculus AB, Pre-Calculus, Integrated Math II & III.
