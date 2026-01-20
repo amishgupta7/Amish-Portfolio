@@ -1,5 +1,5 @@
 # WeEmbrace Community Service and Technology Lead
-Volunteering with the WeEmbrace nonprofit by supporting neurodiverse youth through weekly programs such as adaptive basketball, social clubs, and art and crafts, to foster an inclusive and welcoming environment. Additionally, volunteering as a website administrator to modernize WeEmbrace website, improving infrastructure, databases and user experience for thousands of participants to ensure neurodiverse families can easily access vital resources and register for programs without technical barriers.
+Volunteering with the WeEmbrace nonprofit, directly supporting 450+ neurodiverse youth and adults through weekly adaptive programs—including basketball, social clubs, and arts—to foster an inclusive environment for families across the Sacramento region. Additionally, serving as a Website Administrator to modernize the WeEmbrace platform, improving infrastructure and databases for thousands of monthly visitors. My work ensures 2,000+ registered families can seamlessly access vital resources and register for programs without technical barriers, increasing digital accessibility for the special needs community.
 
 ## WeEmbrace Project Documentation
 
