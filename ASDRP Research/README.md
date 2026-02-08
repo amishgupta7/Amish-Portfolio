@@ -1,5 +1,5 @@
 # ASDRP Research: Training Hybrid Transformer ML Model for Fragment based Drug Discovery
-**Status:** Manuscript Under Review (2025) | [View Poster](./https://github.com/amishgupta7/Amish-Portfolio/blob/main/ASDRP%20Research/Research_ML_Drug_Discovery_Poster.pdf/)
+**Status:** Manuscript Under Review (2025)
 
 ## Research Overview
 My research at the **Aspiring Scholars Directed Research Program (ASDRP)** focuses on accelerating Fragment-Based Drug Discovery (FBDD). The goal was to determine if changing the "language" used to represent molecules could help ML models predict the best chemical fragments for a specific biological target more accurately than standard methods.
