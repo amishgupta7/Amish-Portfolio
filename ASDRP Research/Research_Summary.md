@@ -1,5 +1,5 @@
 # ASDRP Research: Transformer-Based Fragment Prediction in Drug Discovery
-**Status:** Manuscript Under Review (2025)
+**Status:** Manuscript Under Review (2026)
 
 ## Research Overview
 My research at the **Aspiring Scholars Directed Research Program (ASDRP)** focuses on accelerating Fragment-Based Drug Discovery (FBDD). The goal was to determine if changing the "language" used to represent molecules could help AI models predict the best chemical fragments for a specific biological target more accurately than standard methods.
