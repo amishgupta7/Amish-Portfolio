@@ -1,5 +1,6 @@
 # ASDRP Research: Training Hybrid Transformer ML Model for Fragment based Drug Discovery
 **Status:** Manuscript Under Review (2026)
+**Accepted at the AAAI 2026 Workshop on AI for Drug Discovery (AIDD)**
 
 ## Research Overview
 My research at the **Aspiring Scholars Directed Research Program (ASDRP)** focuses on accelerating Fragment-Based Drug Discovery (FBDD). The goal was to determine if changing the "language" used to represent molecules could help ML models predict the best chemical fragments for a specific biological target more accurately than standard methods.
