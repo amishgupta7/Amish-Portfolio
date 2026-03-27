@@ -3,7 +3,7 @@
 * **Weighted GPA:** 4.26 | **Unweighted GPA:** 3.95 | **College Prep GPA:** 4.44
 
 ## Key Highlights and Portfolio Directory
-* **ASDRP Research (2025):** ML in Drug Discovery (Paper Under Review) [View Folder](./ASDRP%20Research/) for ML in Drug Discovery abstract and Tanimoto results.
+* **ASDRP Research:** ML in Drug Discovery (Paper Under Review) [View Folder](./ASDRP%20Research/) for ML in Drug Discovery abstract and Tanimoto results.
 * **Lawrence Livermore National Laboratory (LLNL) internship:** [View Folder](./LLNL%20Internship/) for internship summary and data graphs.
 * **Community Impact (WeEmbrace):** [View Folder](./Community%20Impact%20-%20WeEmbrace%20for%20Neurodiverse/) for web administration artifacts and Volunteer of the Month recognition.
 * **Congressional App Challenge 2025 (3rd Place):** [MindUnplugged Demo Link](https://www.youtube.com/watch?v=Iv9O0UiuJmU) | [View Repository](https://github.com/amishgupta7/MindUnplugged-DigitalDetox_Main)
