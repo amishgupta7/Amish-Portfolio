@@ -11,6 +11,7 @@
 * **Youth Entrepreneurship Summit Global Startup Contest 2025 (1st Place): Data Digger ($1,000 Prize)** | [View Folder](./Youth%20Enterpreneurship%20Summit%20Data%20Digger/)
 * **CyberPatriot (2024):** Platinum Tier Award [View Certificates folder](./Certificates/)
 * **Daydream Folsom Hackathon (2025):** Lead Organizer for a global, teen-led game jam across 130+ cities worldwide.[View Folder](https://github.com/amishgupta7/Amish-Portfolio/tree/main/Daydream%20Folsom%20Hackathon)
+* **Campfire Sacramento Hackathon (2026):** Co-organized another Global Game Jam, securing $1,600 in funding and an in-kind food sponsorship from Shake Shack to fully subsidize the event for participants 
 * **Code Coach at The Coder School:** [View recognition and social media feature](./Certificates/)
 * **Certificates and Awards:** [View Folder](./Certificates/) for all official certificates and award documents.
 
